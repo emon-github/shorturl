@@ -3,3 +3,5 @@
 ################################################################################
 
 /ShortUrlMvc/.vs/ShortUrlMvc/v16
+/ShortUrlMvc/bin/Debug/netcoreapp2.2
+/ShortUrlMvc/obj
